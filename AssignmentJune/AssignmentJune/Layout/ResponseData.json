@@ -1,0 +1,491 @@
+{
+  "menu_category": {
+      "root_category": [
+          {
+              "id_category": "8",
+              "name": "Home Accessories",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/8.jpg?time=1591717771"
+          },
+          {
+              "id_category": "7",
+              "name": "Stationery",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/7.jpg?time=1591717771"
+          },
+          {
+              "id_category": "9",
+              "name": "Art",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/9.jpg?time=1591717771"
+          },
+          {
+              "id_category": "4",
+              "name": "Men",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/4.jpg?time=1591717771"
+          },
+          {
+              "id_category": "5",
+              "name": "Women",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/5.jpg?time=1591717771"
+          },
+          {
+              "id_category": "10",
+              "name": "Footwear",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/10.jpg?time=1591717771"
+          },
+          {
+              "id_category": "11",
+              "name": "Sports & Fitness",
+              "img_icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/c/11.jpg?time=1591717771"
+          }
+      ]
+  },
+  "mod_product_sliders": {
+    "mod_product_slider": [
+      {
+        "title": "New products",
+        "link_rewrite": "new",
+        "mod_product_list": {
+          "mod_product": [
+            {
+              "id_product": "59",
+              "name": "SG Max Cover Cricket Bat Kashmir Willow Size - SH",
+              "id_product_attribute": "0",
+              "price": "£20.40",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/59-74.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "33"
+            },
+            {
+              "id_product": "58",
+              "name": "White and Black Soccer Ball",
+              "id_product_attribute": "0",
+              "price": "£7.20",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/58-72.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "56"
+            },
+            {
+              "id_product": "57",
+              "name": "Prince Deuce Tennis Racquet",
+              "id_product_attribute": "0",
+              "price": "£36.00",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/57-71.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "13"
+            },
+            {
+              "id_product": "56",
+              "name": "Badminton racket and shuttlecock",
+              "id_product_attribute": "85",
+              "price": "£21.60",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/56-66.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "40"
+            },
+            {
+              "id_product": "55",
+              "name": "Black Skip Rope",
+              "id_product_attribute": "0",
+              "price": "£8.40",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/55-64.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "10"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Best Sellers",
+        "link_rewrite": "bestseller",
+        "mod_product_list": {
+          "mod_product": [
+            {
+              "id_product": "24",
+              "name": "Women's Denim Shoe",
+              "id_product_attribute": "0",
+              "price": "£35.99",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/24-29.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "993"
+            },
+            {
+              "id_product": "23",
+              "name": "Women's Glitter White Heel",
+              "id_product_attribute": "0",
+              "price": "£42.48",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/23-28.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "994"
+            },
+            {
+              "id_product": "4",
+              "name": "The adventure begins Framed poster",
+              "id_product_attribute": "16",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/4-4.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "897"
+            },
+            {
+              "id_product": "16",
+              "name": "Mountain fox notebook",
+              "id_product_attribute": "28",
+              "price": "£15.48",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/16-18.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "300"
+            },
+            {
+              "id_product": "1",
+              "name": "Hummingbird printed t-shirt",
+              "id_product_attribute": "1",
+              "price": "£22.94",
+              "reduction_amount": "Save 20%",
+              "old_price": "£28.68",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/1-1.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "269"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Popular Products",
+        "link_rewrite": "popular",
+        "mod_product_list": {
+          "mod_product": [
+            {
+              "id_product": "1",
+              "name": "Hummingbird printed t-shirt",
+              "id_product_attribute": "1",
+              "price": "£22.94",
+              "reduction_amount": "Save 20%",
+              "old_price": "£28.68",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/1-1.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "269"
+            },
+            {
+              "id_product": "2",
+              "name": "Hummingbird printed sweater",
+              "id_product_attribute": "9",
+              "price": "£34.46",
+              "reduction_amount": "Save 20%",
+              "old_price": "£43.08",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/2-21.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "1198"
+            },
+            {
+              "id_product": "3",
+              "name": "The best is yet to come' Framed poster",
+              "id_product_attribute": "13",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/3-3.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "900"
+            },
+            {
+              "id_product": "4",
+              "name": "The adventure begins Framed poster",
+              "id_product_attribute": "16",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/4-4.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "897"
+            },
+            {
+              "id_product": "5",
+              "name": "Today is a good day Framed poster",
+              "id_product_attribute": "19",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/5-5.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "300"
+            }
+          ]
+        }
+      },
+      {
+        "title": "On Sale",
+        "link_rewrite": "special",
+        "mod_product_list": {
+          "mod_product": [
+            {
+              "id_product": "2",
+              "name": "Hummingbird printed sweater",
+              "id_product_attribute": "9",
+              "price": "£34.46",
+              "reduction_amount": "Save 20%",
+              "old_price": "£43.08",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/2-21.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "1198"
+            },
+            {
+              "id_product": "1",
+              "name": "Hummingbird printed t-shirt",
+              "id_product_attribute": "1",
+              "price": "£22.94",
+              "reduction_amount": "Save 20%",
+              "old_price": "£28.68",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/1-1.jpg",
+              "display_addtocart": "1",
+              "show_price": "1",
+              "quantity": "269"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "slider": {
+    "slide": [
+      {
+        "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/sliders/750/mk_b7c46e94f74fde731d6f486b5fab45fe8c68d5e0_download%20(2).png",
+        "page": "category",
+        "id_page": "8",
+        "id_product_attribute": "0",
+        "category_name": "Home Accessories",
+        "url": {
+          
+        }
+      },
+      {
+        "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/sliders/750/mk_aa73cd017eb54cb21134266ce0ec22ef9ef8bb08_download%20(1).png",
+        "page": "category",
+        "id_page": "3",
+        "id_product_attribute": "0",
+        "category_name": "Clothes",
+        "url": {
+          
+        }
+      },
+      {
+        "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/sliders/750/mk_1a98e001bc5de3ce34515e299efc3a59f90afe33_download%20(3).png",
+        "page": "category",
+        "id_page": "7",
+        "id_product_attribute": "0",
+        "category_name": "Stationery",
+        "url": {
+          
+        }
+      },
+      {
+        "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/sliders/750/mk_00c7b18501d6a5520c9072ca7a96138d1e1713b4_download.png",
+        "page": "category",
+        "id_page": "6",
+        "id_product_attribute": "0",
+        "category_name": "Accessories",
+        "url": {
+          
+        }
+      }
+    ]
+  },
+  "banners": {
+    "banner": [
+      {
+        "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/banners/750/bn_2.jpg?time=1591717771",
+        "page": "category",
+        "id_page": "5",
+        "url": {
+          
+        },
+        "category_name": "Women",
+        "id_product_attribute": "0"
+      },
+      {
+        "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/banners/750/bn_1.jpg?time=1591717771",
+        "page": "category",
+        "id_page": "4",
+        "url": {
+          
+        },
+        "category_name": "Men",
+        "id_product_attribute": "0"
+      }
+    ]
+  },
+  "product_block": {
+    "block": [
+      {
+        "title": "Apparel & Clothing",
+        "id_product_block": "1",
+        "products": {
+          "product": [
+            {
+              "id_product": "24",
+              "name": "Women's Denim Shoe",
+              "id_product_attribute": "0",
+              "price": "£35.99",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/24-29.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            },
+            {
+              "id_product": "22",
+              "name": "Women's Canvas Shoe",
+              "id_product_attribute": "0",
+              "price": "£47.99",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/22-26.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            },
+            {
+              "id_product": "21",
+              "name": "Mens Denim Shirt",
+              "id_product_attribute": "0",
+              "price": "£22.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/21-25.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clothing",
+        "id_product_block": "2",
+        "products": {
+          "product": [
+            {
+              "id_product": "6",
+              "name": "Mug The best is yet to come",
+              "id_product_attribute": "0",
+              "price": "£14.28",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/6-6.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            },
+            {
+              "id_product": "4",
+              "name": "The adventure begins Framed poster",
+              "id_product_attribute": "17",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/4-4.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            },
+            {
+              "id_product": "3",
+              "name": "The best is yet to come' Framed poster",
+              "id_product_attribute": "14",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/3-3.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            },
+            {
+              "id_product": "3",
+              "name": "The best is yet to come' Framed poster",
+              "id_product_attribute": "13",
+              "price": "£34.80",
+              "image_link": "https://prestashop.webkul.com/ps17/ps-mpmobikul/modules/mobikul/views/img/resized/products/300/3-3.jpg",
+              "show_price": "1",
+              "display_addtocart": "1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "language": [
+      {
+        "id_lang": "1",
+        "name": "English (English)",
+        "iso_code": "en",
+        "icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/l/1.jpg"
+      },
+      {
+        "id_lang": "2",
+        "name": "English GB (English)",
+        "iso_code": "gb",
+        "icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/l/2.jpg"
+      },
+      {
+        "id_lang": "3",
+        "name": "Français (French)",
+        "iso_code": "fr",
+        "icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/l/3.jpg"
+      },
+      {
+        "id_lang": "4",
+        "name": "اللغة العربية (Arabic)",
+        "iso_code": "ar",
+        "icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/l/4.jpg"
+      },
+      {
+        "id_lang": "5",
+        "name": "Italiano (Italian)",
+        "iso_code": "it",
+        "icon": "https://prestashop.webkul.com/ps17/ps-mpmobikul/img/l/5.jpg"
+      }
+    ]
+  },
+  "currencies": {
+    "currency": [
+      {
+        "id_currency": "2",
+        "name": "Euro",
+        "iso_code": "EUR",
+        "sign": "€"
+      },
+      {
+        "id_currency": "1",
+        "name": "British Pound Sterling",
+        "iso_code": "GBP",
+        "sign": "£"
+      },
+      {
+        "id_currency": "3",
+        "name": "Saudi Riyal",
+        "iso_code": "SAR",
+        "sign": "SAR"
+      }
+    ]
+  },
+  "app_reference_version": "1",
+  "guest_checkout": "1",
+  "notification_count": "2",
+  "search_word_length": "3",
+  "id_lang_default": "1",
+  "iso_lang_default": "en",
+  "id_currency_default": "1",
+  "iso_currency_default": "GBP",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.mobikul.prestashopmarketplace",
+  "cms_tabs": {
+    "tab": [
+      "Terms and Conditions",
+      "About Us",
+      "Privacy Policy"
+    ]
+  },
+  "enable_optin": "1",
+  "enable_shop": "1",
+  "theme_color": {
+    
+  },
+  "module_blockwishlist": "0",
+  "module_productcomments": "0",
+  "profile_picture_upload_url": "https%3A%2F%2Fprestashop.webkul.com%2Fps17%2Fps-mpmobikul%2Fen%2Fmodule%2Fmobikul%2Fcustomerprofilepictureupload%3Fid_lang%3D1",
+  "request_protocol": "https://",
+  "is_ps17": "1",
+  "consent_box": "Enim quis fugiat consequat elit minim nisi eu occaecat occaecat deserunt aliquip nisi ex deserunt."
+}
